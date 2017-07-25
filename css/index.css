@@ -1,0 +1,55 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.zong{
+	width: 100px;
+	height: 1000px;
+	background: #051623;
+}
+.heng{
+	width: 100%;
+	height: 60px;
+	background: #21242a;
+	position: absolute;
+	top: 0;
+	left: 100px;
+	color: #fff;
+	line-height: 60px;
+	padding: 10px 900px;
+	font-size: 24px;
+}
+.top{
+	width: 100%;
+	height: 565px;
+	background: url(../img/顶部.png);
+	position: absolute;
+	top: 60px;
+	left: 100px;
+}
+.lamp{
+	width: 307px;
+	height: 499px;
+	background: url(../img/灯泡.png);
+	position: absolute;
+	left: 780px;
+	top: 40px;
+}
+.top-text1{
+	width: 328px;
+	height: 35px;
+	background: url(../img/top-text1.png);
+	position: absolute;
+	left: 760px;
+	top: 380px;
+	z-index: 100;
+}
+.top-text2{
+	width: 987px;
+	height: 49px;
+	background: url(../img/top-text2.png);
+	position: absolute;
+	left: 445px;
+	top: 450px;
+	z-index: 100;
+}
